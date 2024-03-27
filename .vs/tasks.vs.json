@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "appliesTo": "/",
+      "taskLabel": "task-NewRepo",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-",
+      "appliesTo": ".gitignore",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-NewRepo",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-",
+      "appliesTo": ".gitignore",
+      "type": "launch"
+    }
+  ]
+}
