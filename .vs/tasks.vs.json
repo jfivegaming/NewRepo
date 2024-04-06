@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+  "version": "0.2.1",
+>>>>>>> 762b78b7c6d384aeb6753e636ccc8d948fb2c60d
   "tasks": [
     {
       "appliesTo": "/",
@@ -6,6 +10,7 @@
       "type": "launch"
     },
     {
+<<<<<<< HEAD
       "appliesTo": ".gitignore",
       "taskLabel": "task-",
       "type": "launch"
@@ -32,4 +37,21 @@
     }
   ],
   "version": "0.2.1"
+=======
+      "taskLabel": "task-",
+      "appliesTo": ".gitignore",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-NewRepo",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-",
+      "appliesTo": ".gitignore",
+      "type": "launch"
+    }
+  ]
+>>>>>>> 762b78b7c6d384aeb6753e636ccc8d948fb2c60d
 }
